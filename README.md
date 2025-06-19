@@ -96,7 +96,7 @@ Missing values will automatically display as `--` in the app.
 ## 🎥 Demo (Embedded Video)
 
 <video width="100%" controls>
-  <source src="https://github.com/yourusername/smart-room-monitor/raw/main/assets/demo.mp4" type="video/mp4">
+  <source src="https://github.com/KPabsy/RoomSync_MobileApp/blob/main/roomsync%20app.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
