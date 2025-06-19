@@ -93,11 +93,9 @@ Missing values will automatically display as `--` in the app.
 | Light Level  | Power       |
 +--------------+-------------+
 ```
-## 🎥 Demo (Embedded Video)
+## 🎥 Demo 
 
-<video width="100%" controls>
-  <source src="https://github.com/KPabsy/RoomSync_MobileApp/raw/main/roomsync_app.mp4" type="video/mp4">  
-</video>
+[![Watch the demo](https://img.icons8.com/clouds/500/video.png)](https://github.com/KPabsy/RoomSync_MobileApp/raw/main/roomsync_app.mp4)
 
 ---
 
