@@ -1,29 +1,11 @@
 {
   "project_info": {
     "project_number": "771268877743",
+    "firebase_url": "https://flutterfirebase-dc911-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "flutterfirebase-dc911",
     "storage_bucket": "flutterfirebase-dc911.firebasestorage.app"
   },
   "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:771268877743:android:a777b1dd2f3e46c17ea35a",
-        "android_client_info": {
-          "package_name": "com.example.firebase_connecting"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDo3eZIkYaMOoT1cVp5Il6CHsxIIb5xQ_0"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
     {
       "client_info": {
         "mobilesdk_app_id": "1:771268877743:android:c8c4e9c31434698d7ea35a",

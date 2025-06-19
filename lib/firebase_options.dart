@@ -57,6 +57,8 @@ class DefaultFirebaseOptions {
     appId: '1:771268877743:android:c8c4e9c31434698d7ea35a',
     messagingSenderId: '771268877743',
     projectId: 'flutterfirebase-dc911',
+    databaseURL: 'https://flutterfirebase-dc911-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'flutterfirebase-dc911.firebasestorage.app',
   );
+
 }
