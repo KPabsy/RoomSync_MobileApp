@@ -30,7 +30,7 @@ A Flutter application that displays real-time data from a Firebase Realtime Data
 
    ```bash
    git clone https://github.com/KPabsy/RoomSync_MobileApp.git
-   cd smart-room-monitor
+   cd RoomSync_MobileApp
 
 2. **Install packages:**
 
@@ -96,8 +96,7 @@ Missing values will automatically display as `--` in the app.
 ## 🎥 Demo (Embedded Video)
 
 <video width="100%" controls>
-  <source src="https://github.com/KPabsy/RoomSync_MobileApp/raw/main/roomsync%20app.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://github.com/KPabsy/RoomSync_MobileApp/raw/main/roomsync_app.mp4" type="video/mp4">  
 </video>
 
 ---
